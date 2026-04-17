@@ -7,7 +7,7 @@
   <groupId>Exp2</groupId>
   <artifactId>Mydevopspipeline</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>war</packaging>g
 
   <name>Mydevopspipeline Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
